@@ -1,0 +1,4 @@
+- 👋 Hola soy ElNanito recien empiezo en el mundo del desarrollo y quiero mejorar en todo :)
+- 👀 Me gusta aprender a hacer webs y bots de discord.
+- 💞️ Tengo un bot de discord llamado SharpyBOT recien voy empezando con el bot
+- 📫 A
